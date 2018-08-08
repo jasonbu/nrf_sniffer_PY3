@@ -3,7 +3,7 @@
 > http://www.nordicsemi.com/eng/Products/Bluetooth-low-energy/nRF-Sniffer#Downloads
 
 # 环境
-    >=python3.5.4
+    >=python3.5.2
     >=pyserial3.4
     >=wireshark2.4.5
 
